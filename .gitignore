@@ -4,8 +4,9 @@
 *.pyc
 __pycache__/
 
-audios/
-db/
+audios/*
+db/*
+transcripts/*
 
 *.py[cod]
 *$py.class
