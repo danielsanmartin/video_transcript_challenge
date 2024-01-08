@@ -25,6 +25,13 @@ virtualenv venv
 ```
 pip install -r requirements.txt
 ```
+* Create the appropriate folder structure in the project root:
+```
+videos - to include videos.
+audios - stores the audios extracted from videos.
+transcripts - stores the transcription from audios.
+db - stores the vector index and sentences.
+```
 
 ### Executing program
 
